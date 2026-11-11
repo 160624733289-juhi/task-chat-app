@@ -19,4 +19,4 @@ A real-time chat application built with Node.js, Express, and Socket.IO.
 3. Open browser: http://localhost:3000
 
 ## Author
-Your Name -ADEEBA KHANAM
+Your Name -JUVAIRIYA IFTHEKHAR
